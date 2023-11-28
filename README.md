@@ -1,4 +1,5 @@
 If you cant access the code form the repo copy paste the below code in your complier! 
+
 import java.util.Scanner;
 
 public class Main {
